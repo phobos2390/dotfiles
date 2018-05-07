@@ -1,0 +1,5 @@
+BLUE="\e[34m"
+YELLOW="\e[33m"
+COLOR_OFF="\e[0m"
+
+PS1="$BLUE\u $YELLOW\w$COLOR_OFF\$ "
