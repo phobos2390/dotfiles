@@ -1,0 +1,3 @@
+if [ -f ~/.bashrc.bck ]; then
+  source ~/.bashrc.bck
+fi
